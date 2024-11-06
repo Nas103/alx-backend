@@ -8,6 +8,9 @@ msgstr "Bienvenue chez Holberton"
 
 msgid "home_header"
 msgstr "Bonjour monde!"
+
+msgid "The current time is %(current_time)s."
+msgstr "Nous sommes le %(current_time)s."
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-11-05 16:26+0000\n"
